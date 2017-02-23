@@ -25,7 +25,7 @@
     },
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "uniqCompNum": 0
+    "uniqCompNum": 1
   },
   "pages": {
     "index.html": {
@@ -49,6 +49,9 @@
               "font-family": "'PT Serif', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,700",
               "text-align": "left"
+            },
+            ".mbr-section-text": {
+              "text-align": "center"
             }
           },
           "_anchor": "index-header2-1",
@@ -56,7 +59,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wandy-1-2000x1250-1.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/mobirise-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -76,10 +79,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/wandy-1-1400x875-12.png",
-              "link": "index.html",
-              "alt": "©",
-              "title": "Wandy",
+              "src": "@PROJECT_PATH@/assets/images/p1050682-1400x1364.jpg",
+              "link": "index.html#index-image1-0",
+              "alt": "©Thuy Lê Thi Thu",
+              "title": "Gent 2017",
               "linkInNewWindow": false
             },
             "video": {
@@ -95,7 +98,7 @@
             }
           },
           "title": "Thuy Lê Thi Thu",
-          "text": "Born in Vietnam on 7 september 1997 and adopted to Belgium&nbsp;",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>"
         },
         {
@@ -104,11 +107,11 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/optic-1400x872-72.png",
+              "src": "@PROJECT_PATH@/assets/images/mobirise-1400x933.jpg",
               "width": 1400,
               "link": "index.html#index-image1-0",
-              "alt": "©",
-              "title": "Optic",
+              "alt": "©Thuy Lê Thi Thu",
+              "title": "Gent 2017",
               "linkInNewWindow": false
             },
             "video": {
@@ -169,7 +172,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ijs-600x709-26.png",
+              "src": "@PROJECT_PATH@/assets/images/mobirise-600x900.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -179,56 +182,56 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Wakker worden",
-          "subtitle1": "Op een ochtend",
+          "title1": "",
+          "subtitle1": "",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/paal-600x681-18.png",
+              "src": "@PROJECT_PATH@/assets/images/mobirise-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "index.html#index-image1-0",
               "alt": "",
-              "title": "Paal",
+              "title": "Gent 2017",
               "linkInNewWindow": false
             }
           },
-          "title2": "Wat denkte?",
-          "subtitle2": "Paal of niet",
+          "title2": "",
+          "subtitle2": "",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/spuit-600x800-8.png",
+              "src": "@PROJECT_PATH@/assets/images/img-4206kopie-600x653.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "index.html#index-image1-0",
               "alt": "© Thuy Lê Thi Thu",
-              "title": "Spuit",
+              "title": "Gent 2017",
               "linkInNewWindow": false
             }
           },
-          "title3": "Lijn",
-          "subtitle3": "Niet goed",
+          "title3": "",
+          "subtitle3": "",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cry-600x450-33.png",
+              "src": "@PROJECT_PATH@/assets/images/mobirise-4-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "index.html#index-image1-0",
               "alt": "© Thuy Lê Thi Thu",
-              "title": "Cry",
+              "title": "Gent 2017",
               "linkInNewWindow": false
             }
           },
-          "title4": "Ween niet",
-          "subtitle4": "Mascara",
+          "title4": "",
+          "subtitle4": "",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {

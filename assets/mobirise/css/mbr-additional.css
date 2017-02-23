@@ -425,6 +425,9 @@ h6,
   font-family: 'PT Serif', serif;
   text-align: left;
 }
+#index-header2-1 .mbr-section-text {
+  text-align: center;
+}
 #index-features1-0 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
