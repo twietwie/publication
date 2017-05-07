@@ -1,5 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+
+
+
 
 
 
@@ -419,10 +424,75 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#menu-c .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-c .navbar-caption {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 16px;
+}
+#menu-c .navbar-toggler {
+  color: #ffffff;
+}
+#menu-c .close-icon::before,
+#menu-c .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-c .link,
+#menu-c .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#menu-c .link {
+  font-size: 0.85rem;
+}
+#menu-c .dropdown-item,
+#menu-c .nav-dropdown-sm .link {
+  font-size: 0.921rem;
+}
+#menu-c .link:hover,
+#menu-c .dropdown-item:hover,
+#menu-c .link:focus,
+#menu-c .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-c .link[aria-expanded="true"],
+#menu-c .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-c .nav-dropdown-sm .link:focus,
+#menu-c .nav-dropdown-sm .link:hover,
+#menu-c .nav-dropdown-sm .dropdown-item:focus,
+#menu-c .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-c .navbar,
+#menu-c .nav-dropdown-sm,
+#menu-c .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-c .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-c .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-c .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-c .bg-color.transparent.opened .link:hover,
+#menu-c .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-c .link[aria-expanded="true"],
+#menu-c .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
 #header2-2 .mbr-section-title SPAN {
   color: #ffffff;
   text-align: left;
   font-size: 32px;
+  font-family: 'Oxygen', sans-serif;
 }
 #header2-2 .mbr-section-title {
   font-size: 32px;
@@ -430,9 +500,22 @@ h6,
 #header2-2 .mbr-section-text {
   text-align: right;
 }
-#msg-box4-7 SPAN {
-  font-size: 30px;
-  text-align: center;
+#header6-e .mbr-section-title {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 36px;
+}
+#header6-e .mbr-section-text {
+  color: #565656;
+}
+#header6-e .mbr-section-title SPAN {
+  color: #efefef;
+}
+#header6-f .mbr-section-title {
+  color: #28262b;
+}
+#header6-f .mbr-section-text {
+  color: #565656;
 }
 
 #page1-msg-box4-0 H3 {
